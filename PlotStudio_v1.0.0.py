@@ -132,7 +132,7 @@ class PlotStudioMenu():
     def help_about(self):
         messagebox.showinfo('关于 PlotStudio',
                             '作者：ResearchStudio \n PlotStudio verion 1.0.0 \n 欢迎反馈信息至 \n 微信公众平台 ResearchStudio ')  # 弹出消息提示框
-        messagebox._show()
+        # messagebox._show()
 
 
 def ColorTransfer(value):
